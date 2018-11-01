@@ -76,4 +76,3 @@ Context switching is used to save states of preempted processes.
 Medium term scheduler
  It is responsible for suspending and resuming the process. It mainly does swapping (moving processes from main memory to disk and vice versa).
 
-Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
